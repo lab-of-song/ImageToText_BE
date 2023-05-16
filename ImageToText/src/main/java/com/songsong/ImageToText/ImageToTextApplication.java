@@ -8,5 +8,4 @@ public class ImageToTextApplication {
     public static void main(String[] args) {
         SpringApplication.run(ImageToTextApplication.class, args);
     }
-
 }
